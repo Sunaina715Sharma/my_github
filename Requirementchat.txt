@@ -3,3 +3,5 @@ Emoji
 Typing Option
 Vibrant
 Fast mode
+Video calls
+Dark Mode
