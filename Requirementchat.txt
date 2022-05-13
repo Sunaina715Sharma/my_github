@@ -16,3 +16,4 @@ Poke
 Take a break option for user
 Call conferencing
 Video Conferencing
+Change Language Option
