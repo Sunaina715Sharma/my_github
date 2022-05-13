@@ -1,7 +1,17 @@
 This is a Chat Application
 Emoji
+Giffy
 Typing Option
 Vibrant
 Fast mode
 Video calls
 Dark Mode
+Privacy Mode
+Colour availability for background
+Blocking 
+Privacy
+Settings
+Pinning Chat options
+Poke
+Take a break option for user
+Call conferencing
