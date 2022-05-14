@@ -19,3 +19,4 @@ Video Conferencing
 Change Language Option
 Font Size
 Automatic for Font
+written Status
