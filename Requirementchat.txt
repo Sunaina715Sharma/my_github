@@ -24,3 +24,4 @@ Requesting
 Following
 Rejecting
 Ignoring
+Suggestions
