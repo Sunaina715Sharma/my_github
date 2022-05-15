@@ -23,3 +23,4 @@ written Status
 Requesting
 Following
 Rejecting
+Ignoring
