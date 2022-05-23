@@ -33,6 +33,7 @@ video launcher
 Status
 Google Translate Option
 Archived
+History
 Updates
 final done
 etc
