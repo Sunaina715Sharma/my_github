@@ -1,6 +1,5 @@
 This is a Chat Application
 and here are some requirements for the application
-
 Emoji
 Giffy
 Typing Option
