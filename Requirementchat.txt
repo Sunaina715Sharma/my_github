@@ -39,3 +39,4 @@ final done
 etc
 Chat option
 Filters
+Hide option
