@@ -33,6 +33,7 @@ Status
 Google Translate Option
 Archived
 Profile option
+final launch
 History
 Updates
 final done
