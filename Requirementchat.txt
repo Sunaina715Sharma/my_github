@@ -41,3 +41,4 @@ etc
 Chat option
 Filters
 Hide option
+Final Statements
