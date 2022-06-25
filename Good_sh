@@ -1,2 +1,6 @@
 Consistancy
  to find factors on python coding
+l = [13,23,24,34,35,45,56,67,55,57,86,78]
+____for i in l:
+_______if i%2==0
+____________print(i,": is Even")
