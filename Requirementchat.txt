@@ -37,9 +37,4 @@ final launch
 History
 Updates
 final done
-etc
-Chat option
-Filters
-Hide option
-Final Statements
-Hypra
+chat options
