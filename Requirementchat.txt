@@ -38,3 +38,4 @@ History
 Updates
 final done
 chat options
+the functions required to chat
