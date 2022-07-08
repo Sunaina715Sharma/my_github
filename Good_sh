@@ -5,4 +5,4 @@ ____for i in l:
 _______if i%2==0
 ____________print(i,": is Even")
 _______else:
-____________print("
+____________print(i,"is Odd")
