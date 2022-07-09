@@ -2,3 +2,10 @@ This is a Chat Application
 and here are some requirements for the application
 Emoji
 Giffy
+JAVA 1.8 installation
+Tomcat web server
+MySQL 5.7 database
+Python packages
+User creation
+DB Creation
+Table creation
