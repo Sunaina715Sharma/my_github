@@ -9,3 +9,4 @@ Python packages
 User creation
 DB Creation
 Table creation
+echo "Hello Sunaina"
