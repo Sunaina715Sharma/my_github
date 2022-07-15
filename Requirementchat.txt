@@ -10,3 +10,4 @@ User creation
 DB Creation
 Table creation
 echo "Hello Sunaina"
+COPY ./dump/devopsclass.sql /docker-entrypoint-initdb.d
