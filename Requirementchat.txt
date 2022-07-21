@@ -36,3 +36,5 @@ fsreae
 
 My Command dgtd
 desdf
+
+install java 1.8
