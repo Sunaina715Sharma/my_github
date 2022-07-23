@@ -34,6 +34,12 @@ python-dateutil
 for creating wpis work
 fsreae
 
+
+
+
+COPY
+COPY ./dump/devopsclass.sql /docker-entrypoint-initdb.d
+
 My Command dgtd
 desdf
 
