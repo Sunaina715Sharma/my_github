@@ -31,9 +31,6 @@ mnist
 # For parsing dates
 python-dateutil
 
-for creating wpis work
-fsreae
-
 
 
 
