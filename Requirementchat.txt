@@ -32,7 +32,9 @@ mnist
 python-dateutil
 
 
-
+# For parsing HTML
+beautifulsoup4
+html5lib
 
 COPY
 COPY ./dump/devopsclass.sql /docker-entrypoint-initdb.d
