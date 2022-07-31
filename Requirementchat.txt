@@ -48,3 +48,7 @@ install java 1.8
 
 dfrsshg
 welldnjdn
+
+# For generating progress bars
+tqdm
+
