@@ -57,3 +57,9 @@ Tomcat web server
 MySQL 5.7 dat
 
 tom
+
+Python packages
+User creation
+
+DB Creation
+Table creation
