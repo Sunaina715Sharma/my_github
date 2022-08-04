@@ -63,3 +63,6 @@ User creation
 
 DB Creation
 Table creation
+
+
+$CATALINA_HOME\bin\startup.bat 
