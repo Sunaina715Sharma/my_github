@@ -1,7 +1,10 @@
 JAVA 1.8 installation
 
 Tomcat web server
+
 MySQL 5.7 database
+
+
 
 Python packages
 User creation
