@@ -66,3 +66,8 @@ Table creation
 
 
 $CATALINA_HOME\bin\startup.bat 
+
+My Command dgtd
+desdf
+
+install java 1.8
