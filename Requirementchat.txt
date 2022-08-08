@@ -40,6 +40,7 @@ COPY
 COPY ./dump/devopsclass.sql /docker-entrypoint-initdb.d
 
 My Command dgtd
+
 desdf
 
 install java 1.8
