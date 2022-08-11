@@ -75,3 +75,7 @@ My Command dgtd
 desdf
 
 install java 1.8
+
+
+For making HTTP requests
+requests
