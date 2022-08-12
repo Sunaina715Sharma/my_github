@@ -79,3 +79,6 @@ install java 1.8
 
 For making HTTP requests
 requests
+
+echo "Hello Sunaina"
+COPY ./dump/devopsclass.sql /docker-entrypoint-initdb.d
