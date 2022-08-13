@@ -82,3 +82,7 @@ requests
 
 echo "Hello Sunaina"
 COPY ./dump/devopsclass.sql /docker-entrypoint-initdb.d
+
+
+# For downloading MNIST data
+mnist
