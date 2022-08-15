@@ -86,3 +86,6 @@ COPY ./dump/devopsclass.sql /docker-entrypoint-initdb.d
 
 # For downloading MNIST data
 mnist
+
+
+$CATALINA_HOME\bin\startup.bat 
