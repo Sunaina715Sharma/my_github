@@ -58,6 +58,15 @@ tqdm
 
 
 Tomcat web server
+
+MySQL 5.7 database
+
+
+
+Python packages
+User creation
+
+Tomcat web server
 MySQL 5.7 dat
 
 tom
