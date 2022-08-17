@@ -98,3 +98,8 @@ mnist
 
 
 $CATALINA_HOME\bin\startup.bat 
+
+
+# For parsing HTML
+beautifulsoup4
+html5lib
