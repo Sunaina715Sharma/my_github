@@ -92,6 +92,10 @@ requests
 echo "Hello Sunaina"
 COPY ./dump/devopsclass.sql /docker-entrypoint-initdb.d
 
+Tomcat web server
+MySQL 5.7 dat
+
+
 
 # For downloading MNIST data
 mnist
